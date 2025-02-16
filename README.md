@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm farleyandrdiznvew426
 
-<!--
-**farleyandrdiznvew426/farleyandrdiznvew426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 🎾 Creating amazing things with frameworks 💡 🎾
 
-Here are some ideas to get you started:
+## About Me
+🚣 🎽 🚣 Excited about design thinking 🚣 🎽 🚣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎨 🎻 🎯 A passionate developer who loves full stack development 🎨 🎻 🎯
+
+### Fun Facts
+🎣 🚴 Innovating in the field of agile methodology 🎣 🚴
+
+---
+🎨 🏊 🏒 🏓 🚵 Thanks for visiting my profile! 🥊 🛹 🎰 🥊 🎮
